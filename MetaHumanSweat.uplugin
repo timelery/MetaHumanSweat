@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "MetaHuman Sweat",
+	"Description": "Sweat on MetaHuman skin: matte when dry, then a damp sheen, beads and drops that run downhill. One component per character, one menu command to prepare its skin materials.",
+	"Category": "Rendering",
+	"CreatedBy": "Codimation",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MetaHumanSweat",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "MetaHumanSweatEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
