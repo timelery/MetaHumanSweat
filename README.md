@@ -6,7 +6,7 @@ Sweat on MetaHuman skin for Unreal Engine: matte when dry, then a damp sheen, be
 
 *Beads, sheen and running drops on a MetaHuman during a bench press.*
 
-**Preview video:** [MetaHumanSweatPreview_1080p.mp4](Docs/MetaHumanSweatPreview_1080p.mp4) (48 s, 1080p).
+https://github.com/user-attachments/assets/ea2d584b-f005-4b67-94a7-b6499608cbba
 
 - **One component.** Add *MetaHuman Sweat* to the character and set its effort from gameplay, or let it follow the character's speed.
 - **One menu command.** *Tools > MetaHuman Sweat > Add Sweat to Selected Actors* makes the sweat versions of the character's skin materials. Your original materials are not changed.
