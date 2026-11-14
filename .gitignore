@@ -19,3 +19,6 @@ Releases/
 *.VC.opendb
 Thumbs.db
 .DS_Store
+
+# The 4K source of the preview video (over GitHub's 100 MB file limit); Docs/MetaHumanSweatPreview_1080p.mp4 is the committed copy
+Docs/MetaHumanSweatPreview.mp4
